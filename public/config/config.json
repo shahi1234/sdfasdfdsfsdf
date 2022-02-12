@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xC3C42132d9957fb4c6413FBCa35E39fE29332F46",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xc3c42132d9957fb4c6413fbca35e39fe29332f46",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "Happy Turtle test",
+  "SYMBOL": "HPTT",
+  "MAX_SUPPLY": 444,
+  "WEI_COST": 40000000000000000,
+  "DISPLAY_COST": 0.04,
+  "GAS_LIMIT": 3000000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/happy-turtle-test",
+  "SHOW_BACKGROUND": true
+}
